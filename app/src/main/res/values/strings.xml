@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="hint_produto">Produto</string>
+    <string name="btn_plusSymbol">+</string>
+</resources>
